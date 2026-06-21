@@ -1,0 +1,11 @@
+
+Assessment Date: 2026-06-21
+Total Passwords Tested: 4
+Weak Passwords: 1
+Medium Passwords: 2
+Strong Passwords: 1
+
+Recommendations:
+- Use longer passwords
+- Include uppercase letters
+- Include numbers and symbols
